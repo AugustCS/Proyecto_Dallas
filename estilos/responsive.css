@@ -1,0 +1,211 @@
+@media(max-width:1159px){
+	.wrapper{
+		width:100%;
+	}
+
+	
+}	
+@media(max-width:1071px){
+	.one{
+		width:55%;
+	}
+	.slider{
+		width:44%;
+	}
+	.sec-com article{
+		width: 60%;
+	}
+	.com-2{
+		margin-top: 15px;
+	}
+}
+@media(max-width:1010px){
+	.one{
+		width: 80%;
+		margin-bottom: 10px;
+	}
+	.slider{
+		width: 80%;
+	}
+	.sus h2{
+		width: 100%;
+	}
+	.form-sus{
+		width: 100%;
+	}
+}
+
+@media(max-width: 970px){
+	.s3{
+		margin-top:20px;
+	}
+	.im-menu{
+		width:80%;
+		float:none;
+		margin:0 auto;
+		padding:20px 0;
+		margin-bottom: 10px;
+	}
+	.ingre{
+		float:none;
+		margin:0 auto;
+		width:70%;
+		border:10px solid #B22222;
+	}
+	.f1{
+		width:60%;
+		margin-bottom: 	10px;
+	}
+	.f2{
+		width: 80%;
+	}
+}
+@media(max-width: 850px){
+	.sec-carta article{
+		width: 45%;
+	}
+	.ca-foo{
+		width: 45%;
+		margin-bottom: 20px;
+	}
+	.sec-com article{
+		width: 80%;
+	}
+	.form-plat{
+		width: 100%;
+		height: 350px;
+	}
+	.content-plat{
+		width: 100%;
+	}
+	.form-cate{
+		width: 100%;
+		height: 200px;
+	}
+	.content-cate{
+		width:100%;
+	}
+
+}
+@media(max-width:760px){
+	.im-menu{
+		width: 90%;
+	}
+	.ingre{
+		width:90%;
+	}
+	.one{
+		width: 90%;
+	}
+	.slider{
+		width: 90%;
+	}
+	.f1{
+		width: 100%;
+	}
+	.body-reserv div{
+		display: none;
+	}
+	.body-contac div{
+		display: none;
+	}
+	.form-contac{
+		width: 80%;
+		text-align: center;
+	}
+	.form-reserv{
+		text-align: center;
+		width: 80%;
+	}
+}
+@media(max-width:620px){
+	.im-menu{
+		width: 100%;
+	}
+	.ingre{
+		width:100%;
+		height: 540px;
+	}
+	.item{
+		height: auto;
+	}
+	.im-menu{
+		padding:0px;
+		height: auto;
+	}
+	.one,.slider{
+		width:100%;
+	}
+	.mini-menu{
+		display: inline-block;
+		vertical-align: top;
+		padding: 10px 12px;
+		margin-left: 5px;
+		color:white;
+		border-radius: 50%;
+		border:1px solid white;
+	}
+	/* A OBSERVAR*/
+	#my-panel{
+		  display: inline-block;
+		  position: fixed;
+		  top: 0;
+		  left: 0;
+		  width: 150px;
+		  height: 100%;  /* remember to set 100% height for all its parents too, including html and body */
+		  background-color:#0E1315;
+		  transform: translateX(-150px);
+	}
+	#my-panel ul li a{
+		font-family: 'Montserrat', sans-serif;
+		font-size: 14px;
+		padding:15px 10px;
+		width:100%;
+		margin:2px 0;
+		background-color:black;
+		display: inline-block;
+		vertical-align: top;
+		color:white;
+		text-align: center;
+	}
+	.t-menu{
+		display: none;
+	}
+	.listamenu{
+		margin:0 auto;
+	}
+	.s3{
+		margin-bottom: 20px;
+	}
+	.f1{
+		width: 100%;
+		margin-bottom: 10px;
+	}
+	.f2{
+		width: 100%;
+	}
+	.form-sus input[type="submit"]{
+		right: 10px;
+	}
+}
+@media(max-width:520px){
+	.caja-a-s1 h3{
+		font-size: 20px;
+	}
+	.caja-b-s1 h3{
+		font-size: 20px;
+	}
+	.sec-carta article{
+		width: 80%;
+	}
+	.ca-foo{
+		width: 100%;
+		padding-left: 30px;
+	}
+	.form-reserv{
+		width: 100%;
+	}
+	.form-contac{
+		width: 100%;
+	}
+}
